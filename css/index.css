@@ -1,0 +1,258 @@
+.desktop-1-child,
+.desktop-1-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(4, 0, 176, 0.75);
+  width: 500px;
+  height: 1418px;
+}
+.desktop-1-item {
+  top: -19px;
+  left: 496px;
+  background-color: rgba(143, 56, 255, 0.44);
+  width: 944px;
+  height: 1437px;
+}
+.desktop-1-inner,
+.rectangle-div {
+  position: absolute;
+  top: 492px;
+  left: 70px;
+  background-color: var(--color-gainsboro);
+  width: 360px;
+  height: 10px;
+}
+.rectangle-div {
+  top: 806px;
+}
+.ee-odluub-e-1-icon {
+  position: absolute;
+  top: calc(50% - 672px);
+  left: 79px;
+  border-radius: 243px;
+  width: 343px;
+  height: 339px;
+  object-fit: cover;
+}
+.d-designer,
+.sokolov-ilya {
+  position: absolute;
+  color: var(--color-white);
+}
+.sokolov-ilya {
+  top: 354px;
+  left: 41px;
+  font-size: var(--font-size-45xl);
+  text-transform: uppercase;
+}
+.d-designer {
+  top: 422px;
+  left: 146px;
+  font-family: var(--font-itim);
+}
+.contact-info,
+.div,
+.div1,
+.div2,
+.education,
+.zapmailgmailcom {
+  position: absolute;
+  top: 556px;
+  left: 41px;
+  text-transform: uppercase;
+  color: var(--color-white);
+}
+.div,
+.div1,
+.div2,
+.education,
+.zapmailgmailcom {
+  top: 614px;
+}
+.div1,
+.div2,
+.education,
+.zapmailgmailcom {
+  top: 672px;
+}
+.div1,
+.div2,
+.education {
+  top: 816px;
+  left: 142px;
+}
+.div1,
+.div2 {
+  top: 859px;
+  left: 20px;
+}
+.div2 {
+  top: 1053px;
+}
+.secondary-school-no {
+  margin: 0;
+}
+.i-study-at-container,
+.secondary-school-no-container {
+  position: absolute;
+  top: 939px;
+  left: 33px;
+  font-size: var(--font-size-13xl);
+  text-transform: uppercase;
+  font-family: var(--font-homenaje);
+  color: var(--color-white);
+}
+.i-study-at-container {
+  top: 1133px;
+  left: 32px;
+}
+.experience,
+.professional-skills,
+.profile {
+  position: absolute;
+  top: 37px;
+  left: 532px;
+  font-size: var(--font-size-45xl);
+  text-transform: uppercase;
+  color: var(--color-slateblue);
+}
+.experience,
+.professional-skills {
+  top: 410px;
+}
+.professional-skills {
+  top: 783px;
+}
+.blender,
+.hobby,
+.marmoset,
+.subpaint {
+  position: absolute;
+  top: 862px;
+  left: 558px;
+  text-transform: uppercase;
+}
+.hobby,
+.marmoset,
+.subpaint {
+  top: 937px;
+}
+.hobby,
+.marmoset {
+  top: 1012px;
+  left: 547px;
+}
+.hobby {
+  top: 1156px;
+  left: 532px;
+  font-size: var(--font-size-45xl);
+  color: var(--color-slateblue);
+}
+.div3,
+.div4,
+.i-am-a,
+.lorem-ipsum-dolor-container,
+.worked-on-the {
+  position: absolute;
+  left: 532px;
+  font-size: var(--font-size-xl);
+  text-transform: uppercase;
+}
+.lorem-ipsum-dolor-container {
+  top: 108px;
+  display: inline-block;
+  width: 878px;
+  height: 295px;
+}
+.div3,
+.div4,
+.i-am-a,
+.worked-on-the {
+  top: 483px;
+}
+.div4,
+.i-am-a,
+.worked-on-the {
+  top: 614px;
+}
+.i-am-a,
+.worked-on-the {
+  top: 512px;
+  left: 568px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 703px;
+  height: 92px;
+}
+.i-am-a {
+  top: 650px;
+  height: 133px;
+}
+.desktop-1-child1,
+.desktop-1-child2,
+.desktop-1-child3 {
+  position: absolute;
+  top: 875px;
+  left: 803px;
+  background-color: var(--color-gainsboro);
+  width: 600px;
+  height: 30px;
+}
+.desktop-1-child2,
+.desktop-1-child3 {
+  background-color: var(--color-dodgerblue);
+  width: 468px;
+}
+.desktop-1-child3 {
+  top: 951px;
+  background-color: var(--color-gainsboro);
+  width: 600px;
+}
+.desktop-1-child4,
+.desktop-1-child5,
+.desktop-1-child6 {
+  position: absolute;
+  top: 951px;
+  left: 803px;
+  background-color: var(--color-dodgerblue);
+  width: 379px;
+  height: 30px;
+}
+.desktop-1-child5,
+.desktop-1-child6 {
+  top: 1027px;
+  background-color: var(--color-gainsboro);
+  width: 600px;
+}
+.desktop-1-child6 {
+  background-color: var(--color-dodgerblue);
+  width: 347px;
+}
+.cooking,
+.gaming,
+.reading {
+  position: absolute;
+  top: 1273px;
+  left: 561px;
+  font-size: var(--font-size-17xl);
+  text-transform: uppercase;
+}
+.cooking,
+.reading {
+  left: 782px;
+}
+.reading {
+  left: 1025px;
+}
+.desktop-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1418px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-jost);
+}

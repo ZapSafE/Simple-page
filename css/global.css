@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-jost: Jost;
+    --font-homenaje: Homenaje;
+    --font-itim: Itim;
+  
+    /* font sizes */
+    --font-size-17xl: 36px;
+    --font-size-13xl: 32px;
+    --font-size-xl: 20px;
+    --font-size-45xl: 64px;
+    --font-size-21xl: 40px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-black: #000;
+    --color-dodgerblue: #528dff;
+    --color-gainsboro: #d9d9d9;
+    --color-slateblue: #4240c3;
+  }
+  
